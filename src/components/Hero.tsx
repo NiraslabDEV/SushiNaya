@@ -15,7 +15,7 @@ export default function Hero() {
       </div>
       <div className="relative z-20 max-w-2xl">
         <p className="font-label text-secondary uppercase tracking-[0.2em] mb-4">Exclusivo por Encomenda</p>
-        <h1 className="text-6xl md:text-8xl font-extrabold tracking-tighter mb-6 leading-[0.9]">Artistry on a <span className="text-primary italic">Canvas.</span></h1>
+        <h1 className="text-6xl md:text-8xl font-extrabold tracking-tighter mb-6 leading-[0.9]">Requinte em Cada <span className="text-primary italic">Peça.</span></h1>
         <p className="text-on-surface-variant text-lg max-w-md mb-10 leading-relaxed">
           Experiência Omakase premium entregue em sua casa. Peixe fresco selecionado diariamente, técnica milenar e exclusividade em cada peça.
         </p>
